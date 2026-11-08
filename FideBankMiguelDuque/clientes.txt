@@ -1,0 +1,2 @@
+1;Miguel;Duque;123456789;12345678;prueba@gmail.com;prueba;2026-11-07
+2;prueba;prueba;123456;123456;prueba@gmail.com;prueba;2026-11-07

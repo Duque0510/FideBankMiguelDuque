@@ -1,0 +1,12 @@
+==============================
+     FIDEBANK - COMPROBANTE
+==============================
+Fecha: 2026-11-07
+Hora: 20:28:41
+Operación: Depósito de Dinero
+Cuenta: 1000000001
+Monto: ₡250,000.00
+Saldo anterior: ₡0.00
+Saldo nuevo: ₡250,000.00
+==============================
+    Gracias por usar FideBank

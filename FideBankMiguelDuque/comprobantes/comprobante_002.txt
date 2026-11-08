@@ -1,0 +1,12 @@
+==============================
+     FIDEBANK - COMPROBANTE
+==============================
+Fecha: 2026-11-07
+Hora: 20:29:15
+Operación: Retiro de Fondos
+Cuenta: 1000000001
+Monto: ₡1.00
+Saldo anterior: ₡250,000.00
+Saldo nuevo: ₡249,999.00
+==============================
+    Gracias por usar FideBank
